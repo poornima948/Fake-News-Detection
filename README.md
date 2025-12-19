@@ -4,6 +4,10 @@ Fake News Detection using NLP and Machine Learning
 This project implements a machine learning–based fake news detection system
 using Natural Language Processing (NLP) techniques.
 
+## Dataset
+The dataset used in this project is publicly available on Kaggle:
+- Fake News Detection Dataset 
+
 ## Technologies Used
 - Python
 - Scikit-learn
